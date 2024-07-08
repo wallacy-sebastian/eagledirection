@@ -1,6 +1,6 @@
 <?php
 
-header('Location: http://eagledirection.localhost/products/tedswoodworking/', true);
+header('Location: http://eagledirection.com/products/tedswoodworking/', true);
 exit;
 
 ?>
